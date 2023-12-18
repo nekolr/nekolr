@@ -2,5 +2,3 @@
 
 
 ### Hi 👋
-
-> I'm a java programmer.
